@@ -112,7 +112,6 @@ among
 amused
 another
 answer
-answer
 any
 anyone
 anything
@@ -147,15 +146,12 @@ bedroom
 beef
 beer
 behind
-behind
 believe
 belong
 beside
 best
-best
 better
 between
-big
 big
 bird
 biscuit
@@ -199,10 +195,8 @@ carry
 case
 cat
 catch
-catch
 certainly
 chalk
-change
 change
 charge
 cheap
@@ -217,8 +211,6 @@ church
 cigarette
 cinema
 city
-city
-clean
 clean
 clever
 climate
@@ -229,7 +221,6 @@ cloud
 coat
 coffee
 coin
-cold
 cold
 colour
 come
@@ -243,7 +234,6 @@ correct
 cost
 count
 counter
-country
 country
 cover
 crash
@@ -331,12 +321,10 @@ floor
 flower
 flu
 fly
-fly
 food
 football
 forget
 fork
-fresh
 fresh
 friend
 front
@@ -375,7 +363,6 @@ handbag
 handle
 handwriting
 happen
-hard
 hard
 hat
 hate
@@ -423,11 +410,9 @@ is
 it
 jam
 job
-job
 joke
 jump
 just
-keep
 keep
 kettle
 key
@@ -446,7 +431,6 @@ later
 latest
 lazy
 least
-leave
 leave
 left
 lemonade
@@ -469,12 +453,10 @@ look
 loud
 lovely
 low
-low
 lucky
 lunch
 madam
 magazine
-make
 make
 man
 manager
@@ -501,7 +483,6 @@ millionaire
 mince
 minute
 miss
-miss
 mistake
 model
 moment
@@ -510,11 +491,9 @@ morning
 most
 mother
 mouth
-mouth
 move
 mum
 mumps
-must
 must
 my
 myself
@@ -531,7 +510,6 @@ news
 newsagent
 newspaper
 nice
-night
 night
 noise
 none
@@ -551,10 +529,8 @@ old
 on
 one
 open
-open
 operator
 opposite
-orange
 orange
 ourselves
 over
@@ -605,7 +581,6 @@ policeman
 policewoman
 pool
 poor
-poor
 porter
 postman
 potate
@@ -622,7 +597,6 @@ quiet
 race
 rain
 read
-read
 ready
 recognize
 red
@@ -636,9 +610,7 @@ rest
 restaurant
 retire
 return
-return
 rich
-right
 right
 ring
 ripe
@@ -673,7 +645,6 @@ shopping
 short
 show
 shut
-shut
 sign
 since
 sir
@@ -685,10 +656,7 @@ sleep
 slip
 slowly
 small
-small
 smart
-smart
-smile
 smile
 snow
 so
@@ -722,7 +690,6 @@ subject
 suddenly
 sugar
 suit
-suit
 suitease
 summer
 sun
@@ -731,7 +698,6 @@ surprise
 surround
 swallow
 sweep
-sweet
 sweet
 swim
 table
@@ -743,7 +709,6 @@ tea
 teacher
 teapot
 teaspoonful
-telephone
 telephone
 television
 tell
@@ -815,7 +780,6 @@ wardrobe
 warm
 wash
 wateh
-water
 water
 wave
 way
