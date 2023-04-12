@@ -28,3 +28,10 @@
 + $\Iota$ $\iota$
 
 </br>
+
+## Derived terms
+
+```mermaid
+graph LR;
+  I--"equivalent to"-->J
+```
